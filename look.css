@@ -22,18 +22,21 @@ body p2 {
 }
 
 .centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 34px;
     width: 25%;
     height: 25%;
   }
-  a{
-      display: flex;
-      justify-content: center;
-    align-items: center;
-    border-radius:50%;
-    width: 44px; height: 44px;
+  /*a{
+      display: block;
+      margin-left: 100px;
+      margin-right: auto;
+      margin-top: auto;
   }
-  
- /* img {
+  */
+  img {
     border: 10px solid #ddd;
     border-radius: 4px;
     padding: 5px;
@@ -42,4 +45,4 @@ body p2 {
   
   img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-  }*/
+  }
