@@ -30,7 +30,7 @@ body p2 {
     height: 25%;
   }*/
   a{    
-    background-image: url("New Piskel.gif");
+    background-image: ("New Piskel.gif");
       display: block;
       margin-left: auto;
       margin-right: auto;
