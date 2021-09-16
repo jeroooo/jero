@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T08:20:23.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="1mEHw5aOcZ63AQcIuSiV" version="15.2.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5Vtbe6I6FP01PtqPu/pI1WO9VD1q7Wlf5kslVWbQOBir9tdPkHANOrSiQU8fKtmEEHbWWtk7gYJcnW8bNljOHpEBrYIkGNuCXCtI5E+pkB/HsnMtYkWTXcvUNg1qCwxD8xNSo0Cta9OAq0hFjJCFzWXUOEGLBZzgiA3YNtpEq70jK3rXJZhCxjCcAIu1PpsGnrnWslQK7A/QnM68O4safeI58CrTJ1nNgIE2IZNcL8hVGyHsHs23VWg53vP88tzcPVudX1qj9e/qN3i6b4+646Lb2D9fucR/BBsu8LebftlWFsXfs9H2cfOOFk8/B23joyhL9NnwznMYNIj/aBHZeIamaAGsemC9t9F6YUCnWYGUgjodhJbEKBLjT4jxjoIBrDEiphmeW/Qs3Jr4P+fyO5WWXkJnalva8r6wCxX60DbnEEPbsy2wvQs15BRfwueCpvYlr62U/qR+X6G1PYFHnChRRmBgTyE+VlFxKzouDqGTjlcDIvJw9o5UsKEFsPkRhTCgTJj69YLRJgd0wL8w+F6/P4C1prfq9wpVpVCu1kd6m0HGCtvol88iKTqmhB1Lp958O3WU5O7dQpvJDNj4bkX8gn84dTYzE8PhEuy9uSHVvjwWH9DGcHvUd/SsrFJnU+Eq+oq0CWRAFKhtFpIATTiTv2WRcekFyJY12JW0YFfzBXaFAXujo9dYkFMcE4cBy4IWInCex6DO8GAZEqbIhSHFSkR/MLpOw8Ce0GEUnVZX7rFwR4h6QaKI3IkiVZix6ta5TFTfnGD2pfhslTUR1ZRElOWsiUgv7SOTPIkPJF9gvVCxHMOH21N6VQwifjdOkFeBQU1N542aUgQ2d4J4VcjJPF5JRo6q8UWO55AQcpqPeqGqFnTSEaHTJP8eBnqCBn0zJDLgxFyZaME5Jkor9L4x+5ConBel91KSUEISpCffSEnEKPHVHPBeTpunyKVchW5KboSdgkTMCiTF8IzgtqZIV4WUSq6QIrMZ7Ws3JuTtpwd91LxyJRfV2Iyp8pdyjXOspUSY5FArF1RKmy/LmefLB4ItKQodWblwmM4m4q16jSVkNDVOIlcIBuBthaw1hnqQQUfzaSUxbz8XPdV4KqTwpycb47YHeisrHXQX+aQLyyCDZYm7nxV2CuIbrPBaZL+IuCYHqinUVlHPIq5SKQpI1aPdhcRVYcX1RvIpvls82WdEyfjR4vC58NxcYuDDLITc6+2na4+euU4b4kO/8dr9nPRrzd6y/eMTPFS7xcrVTBEnEZIR6uwYWmGVP9HT5ROJe1oUxu5s9JzYVyCUEkaDRm/c7DqHbqLad36G+nDUa7WJiguv+r48eGQJeM3RshyPljX+URw7Trz3Er62npgxu5S0WwaKlvVEeZKsimw0/v+Mh45E4+fT5NSoUYULgeRoN2NRD413RuNeS3fjHk9+r30fSKrEwkyBe/wjMC7N63r+NwWZDwG1lASUT02HTyOgdiAqavdqLvPqNCZyVwoPkPCaYyAlvnBw0RgokZKsKt7m1Pm3VzLOTtISS9LkYIZnJMVS9Eb2YK8ADUdEk5tkJ68U0ZipP2i29FGnVR/fWOQU33ct8V85kvIm01xf6j8fMb2Rz7dMs+v/tynTucx3kyByRD15abfXzcP5ri/h9Q451izyLPdvNjmaOke3sANwYJ+Fn4zLVxNa5zQBPqzFeVqAOtbL8HdYg95jq95thonI6riDd3NCxhu8QauPVibeM6k2Nw1jDxCvgm6Z08iJBG5iwjj4iZyORr5n8e1/+5Yl+rlKKJN2BvrdMpdjekcr1t0JGet9q4B20zccoHVagKSlv1ZJSf8svnhJRsDNr3+dm+nllEx3Xz/jxXT2dfeh8z5qq+Dv62lg7pBp8bYK5j8ua1zZs04Wo58fyOdcdibF4NNs9/2I4At3uf4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-16T08:22:47.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_DMZgMT1_ynR3HKpQBir" version="15.2.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-23" target="Yx9n-qhTxMwfonUjRKdv-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-23" value="POČETAK" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="-210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-24" target="Yx9n-qhTxMwfonUjRKdv-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-24" value="GLAD" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="-110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-29" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-25" target="Yx9n-qhTxMwfonUjRKdv-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-30" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-25" target="Yx9n-qhTxMwfonUjRKdv-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-25" value="IMAŠ LI HRANE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-38" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-33" target="Yx9n-qhTxMwfonUjRKdv-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-40" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.01;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-33" target="Yx9n-qhTxMwfonUjRKdv-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-33" value="ZNAŠ LI KUHATI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.41;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-34" target="Yx9n-qhTxMwfonUjRKdv-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-34" value="JEDI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-35" value="KRAJ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-43" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-37" target="Yx9n-qhTxMwfonUjRKdv-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-44" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-37" value="IMAŠ LI BAKU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-39" target="1HPGZNzcPDIOpK_zaHCN-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-39" value="ODI U TRGOVINU I KUPI SASTOJKE ZA SARMU" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-49" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-45" target="Yx9n-qhTxMwfonUjRKdv-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-13" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-45" target="Yx9n-qhTxMwfonUjRKdv-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-45" value="IMA LI TVOJA BAKA SARME" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="500" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-46" target="Yx9n-qhTxMwfonUjRKdv-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-46" value="ODI KOD BAKE I JEDI SARME" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="470" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-5" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-47" target="anWrbfzEYd8IfU0bnavM-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-6" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-47" target="Yx9n-qhTxMwfonUjRKdv-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-47" value="IMA LI PRIJATLJEVA BAKA SARME" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="720" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-2" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-50" target="anWrbfzEYd8IfU0bnavM-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-4" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yx9n-qhTxMwfonUjRKdv-50" target="Yx9n-qhTxMwfonUjRKdv-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx9n-qhTxMwfonUjRKdv-50" value="IMA LI TVOJ PRIJATELJ&lt;br&gt;BAKU" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-3" value="DA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="anWrbfzEYd8IfU0bnavM-0" target="Yx9n-qhTxMwfonUjRKdv-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="21.5" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1HPGZNzcPDIOpK_zaHCN-8" target="Yx9n-qhTxMwfonUjRKdv-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1HPGZNzcPDIOpK_zaHCN-8" value="SKUHAJ SARMU&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="314" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anWrbfzEYd8IfU0bnavM-0" value="IMAŠ LI DRUGOG PRIJATELJA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
