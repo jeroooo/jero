@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T08:22:47.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_DMZgMT1_ynR3HKpQBir" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T11:23:46.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_c4X1iud8Yvj3D14Vytq" version="15.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,8 +116,17 @@
         <mxCell id="1HPGZNzcPDIOpK_zaHCN-8" value="SKUHAJ SARMU&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="314" y="300" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="anWrbfzEYd8IfU0bnavM-0" value="IMAŠ LI DRUGOG PRIJATELJA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5AdCN4vCvNIWGrdN_EmT-1" value="NE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="anWrbfzEYd8IfU0bnavM-0" target="5AdCN4vCvNIWGrdN_EmT-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="anWrbfzEYd8IfU0bnavM-0" value="IMAŠ LI DRUGOG PRIJATELJA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="680" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5AdCN4vCvNIWGrdN_EmT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.2;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5AdCN4vCvNIWGrdN_EmT-0" target="anWrbfzEYd8IfU0bnavM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AdCN4vCvNIWGrdN_EmT-0" value="NAĐI NOVE PRIJATELJE" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="820" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
