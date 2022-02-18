@@ -22,20 +22,18 @@ body p2 {
 }
 
 .centerimg {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 34px;
     width: 25%;
     height: 25%;
+}
+  a{  background-image: url('moneroqr.png');
+      display: flex;
+      justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
   }
-  /*a{
-      display: block;
-      margin-left: 100px;
-      margin-right: auto;
-      margin-top: auto;
-  }
-  */
+  
   img {
     border: 10px solid #ddd;
     border-radius: 4px;
